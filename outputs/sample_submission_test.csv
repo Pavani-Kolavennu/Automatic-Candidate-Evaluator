@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0000031,1,0.7617,"Recommendation Systems Engineer | Search, Ranking & Retrieval; career evidence: retrieval, search, ranking; open to work; response 0.91; strong activity signals; product-building experience; 6.0 yrs"
+CAND_0000015,2,0.5620,Software Engineer | Cloud & DevOps; career evidence: rag; open to work; response 0.32; strong activity signals; product-building experience; 5.4 yrs
+CAND_0000072,3,0.5496,Frontend Engineer | Backend systems & APIs; career evidence: rag; response 0.14; strong activity signals; product-building experience; 7.0 yrs
+CAND_0000038,4,0.5465,Java Developer | Cloud & DevOps; career evidence: rag; open to work; response 0.20; strong activity signals; product-building experience; 6.7 yrs
+CAND_0000063,5,0.5355,Java Developer | Cloud & DevOps; career evidence: rag; open to work; response 0.77; strong activity signals; product-building experience; 5.4 yrs
+CAND_0000046,6,0.5351,Mechanical Engineer | 7.8+ yrs experience; career evidence: llm; response 0.41; strong activity signals; product-building experience; 7.8 yrs
+CAND_0000026,7,0.5320,"Graphic Designer | 6.8+ yrs experience; career evidence: search, evaluation, llm; response 0.59; strong activity signals; product-building experience; 6.8 yrs"
+CAND_0000014,8,0.5298,Frontend Engineer | Full-stack development; career evidence: rag; response 0.80; strong activity signals; product-building experience; 8.4 yrs
+CAND_0000065,9,0.5217,"Project Manager | Driving business outcomes; career evidence: search, llm; open to work; response 0.27; strong activity signals; product-building experience; 9.7 yrs"
+CAND_0000023,10,0.5193,Software Engineer | Cloud & DevOps; career evidence: rag; response 0.57; strong activity signals; product-building experience
+CAND_0000019,11,0.5180,Project Manager | 6.5+ yrs experience; limited direct career evidence; response 0.34; strong activity signals; product-building experience; 6.5 yrs
+CAND_0000062,12,0.5156,DevOps Engineer | Cloud & DevOps; career evidence: rag; open to work; response 0.69; strong activity signals; product-building experience; 4.3 yrs
+CAND_0000093,13,0.5116,Civil Engineer | 8.2+ yrs experience; career evidence: evaluation; open to work; response 0.72; strong activity signals; 8.2 yrs
+CAND_0000061,14,0.5105,DevOps Engineer | Backend systems & APIs; career evidence: rag; response 0.17; strong activity signals; product-building experience; 7.7 yrs
+CAND_0000095,15,0.5062,HR Manager | Driving business outcomes; career evidence: llm; response 0.27; strong activity signals; product-building experience; 6.7 yrs
+CAND_0000018,16,0.5032,Frontend Engineer | Full-stack development; career evidence: rag; response 0.16; strong activity signals; product-building experience; 6.6 yrs
+CAND_0000030,17,0.5020,"Marketing Manager | Driving business outcomes; career evidence: search, llm; response 0.66; strong activity signals; product-building experience; 10.0 yrs"
+CAND_0000013,18,0.5013,Civil Engineer | Driving business outcomes; limited direct career evidence; open to work; response 0.28; strong activity signals; product-building experience
+CAND_0000044,19,0.4992,"Frontend Engineer | Backend systems & APIs; career evidence: rag, python; response 0.66; strong activity signals; product-building experience; 5.7 yrs"
+CAND_0000075,20,0.4989,Full Stack Developer | Full-stack development; career evidence: rag; response 0.68; strong activity signals; product-building experience; 5.2 yrs
+CAND_0000025,21,0.4982,Frontend Engineer | Cloud & DevOps; career evidence: rag; open to work; response 0.74; strong activity signals; product-building experience; 7.3 yrs
+CAND_0000069,22,0.4909,"Business Analyst | 13.0+ yrs experience; career evidence: search, evaluation, llm; open to work; response 0.43; strong activity signals; product-building experience"
+CAND_0000036,23,0.4906,Project Manager | 11.3+ yrs experience; limited direct career evidence; open to work; response 0.40; strong activity signals; product-building experience; 11.3 yrs
+CAND_0000091,24,0.4899,Frontend Engineer | Cloud & DevOps; career evidence: rag; response 0.29; strong activity signals; product-building experience
+CAND_0000010,25,0.4893,"Data Engineer | Data pipelines & analytics; career evidence: rag, python, fine-tuning; response 0.40; strong activity signals; product-building experience; 4.6 yrs"
+CAND_0000048,26,0.4891,Mobile Developer | Full-stack development; career evidence: rag; open to work; response 0.65; strong activity signals; product-building experience; 9.7 yrs
+CAND_0000084,27,0.4877,"Marketing Manager | 10.6+ yrs experience; career evidence: search, llm; open to work; response 0.57; strong activity signals; product-building experience; 10.6 yrs"
+CAND_0000033,28,0.4849,Graphic Designer | Helping teams scale; career evidence: evaluation; open to work; response 0.08; strong activity signals; product-building experience; 8.6 yrs
+CAND_0000077,29,0.4817,Frontend Engineer | Backend systems & APIs; career evidence: rag; response 0.40; strong activity signals; product-building experience; 8.7 yrs
+CAND_0000020,30,0.4816,"Mechanical Engineer | 6.3+ yrs experience; career evidence: search, llm; response 0.55; strong activity signals; product-building experience; 6.3 yrs"
+CAND_0000054,31,0.4806,QA Engineer | Cloud & DevOps; career evidence: rag; open to work; response 0.25; strong activity signals; product-building experience; 4.9 yrs
+CAND_0000009,32,0.4803,Mechanical Engineer | Driving business outcomes; career evidence: evaluation; response 0.53; strong activity signals; product-building experience; 11.0 yrs
+CAND_0000011,33,0.4799,QA Engineer | Cloud & DevOps; career evidence: rag; response 0.56; strong activity signals; product-building experience
+CAND_0000096,34,0.4795,QA Engineer | Full-stack development; career evidence: rag; response 0.68; strong activity signals; product-building experience
+CAND_0000022,35,0.4793,"Mechanical Engineer | Driving business outcomes; career evidence: search, llm; open to work; response 0.27; strong activity signals; product-building experience"
+CAND_0000006,36,0.4790,Business Analyst | 6.0+ yrs experience; limited direct career evidence; response 0.12; strong activity signals; product-building experience; 6.0 yrs
+CAND_0000039,37,0.4785,Marketing Manager | Helping teams scale; limited direct career evidence; response 0.52; strong activity signals; product-building experience
+CAND_0000049,38,0.4781,"Mechanical Engineer | Helping teams scale; career evidence: evaluation, llm; response 0.59; strong activity signals; product-building experience; 11.8 yrs"
+CAND_0000055,39,0.4765,"Full Stack Developer | Backend systems & APIs; career evidence: rag, python; response 0.45; strong activity signals; product-building experience; 7.3 yrs"
+CAND_0000097,40,0.4749,"Mechanical Engineer | AI enthusiast | Building with LLMs; career evidence: vector, rag, llm; response 0.46; strong activity signals; 5.8 yrs"
+CAND_0000058,41,0.4740,HR Manager | Helping teams scale; career evidence: llm; response 0.70; strong activity signals; product-building experience; 10.1 yrs
+CAND_0000078,42,0.4738,Business Analyst | Helping teams scale; career evidence: llm; response 0.19; strong activity signals; product-building experience; 10.3 yrs
+CAND_0000060,43,0.4708,Cloud Engineer | Cloud & DevOps; career evidence: rag; open to work; response 0.22; strong activity signals; 8.0 yrs
+CAND_0000066,44,0.4706,Content Writer | 2.4+ yrs experience; limited direct career evidence; open to work; response 0.42; strong activity signals; product-building experience
+CAND_0000094,45,0.4702,Graphic Designer | Driving business outcomes; limited direct career evidence; response 0.55; strong activity signals; product-building experience
+CAND_0000045,46,0.4675,Project Manager | 12.2+ yrs experience; career evidence: evaluation; open to work; response 0.62; strong activity signals; product-building experience
+CAND_0000099,47,0.4672,Full Stack Developer | Backend systems & APIs; career evidence: rag; open to work; response 0.81; strong activity signals; product-building experience
+CAND_0000088,48,0.4649,Java Developer | Cloud & DevOps; career evidence: rag; response 0.53; strong activity signals; product-building experience; 7.6 yrs
+CAND_0000016,49,0.4643,Accountant | Helping teams scale; career evidence: evaluation; open to work; response 0.64; strong activity signals; 5.3 yrs
+CAND_0000064,50,0.4621,Accountant | Helping teams scale; limited direct career evidence; response 0.26; strong activity signals; product-building experience; 4.5 yrs
+CAND_0000074,51,0.4615,"Operations Manager | Generative AI explorer; career evidence: vector, rag, llm; response 0.73; strong activity signals; product-building experience"
+CAND_0000007,52,0.4613,Civil Engineer | 5.5+ yrs experience; limited direct career evidence; response 0.62; strong activity signals; 5.5 yrs
+CAND_0000037,53,0.4603,Business Analyst | 14.3+ yrs experience; career evidence: llm; response 0.78; strong activity signals; product-building experience
+CAND_0000053,54,0.4573,Graphic Designer | 3.9+ yrs experience; limited direct career evidence; response 0.35; strong activity signals
+CAND_0000004,55,0.4516,"Marketing Manager | Driving business outcomes; career evidence: search, llm; response 0.26; strong activity signals; product-building experience"
+CAND_0000083,56,0.4487,"Graphic Designer | Generative AI explorer; career evidence: vector, evaluation, rag; response 0.49; strong activity signals; 6.7 yrs"
+CAND_0000041,57,0.4471,Operations Manager | Helping teams scale; career evidence: llm; open to work; response 0.07; strong activity signals; product-building experience
+CAND_0000001,58,0.4453,"Backend Engineer | SQL, Spark, Cloud; career evidence: rag, python, fine-tuning; open to work; response 0.34; strong activity signals; 6.9 yrs"
+CAND_0000043,59,0.4450,Cloud Engineer | Full-stack development; career evidence: rag; response 0.04; strong activity signals; 8.3 yrs
+CAND_0000052,60,0.4420,Mechanical Engineer | Helping teams scale; career evidence: evaluation; response 0.48; strong activity signals; product-building experience
+CAND_0000071,61,0.4415,DevOps Engineer | Full-stack development; career evidence: rag; response 0.17; strong activity signals; product-building experience
+CAND_0000089,62,0.4404,Mechanical Engineer | Driving business outcomes; limited direct career evidence; response 0.69; strong activity signals; product-building experience
+CAND_0000051,63,0.4385,Cloud Engineer | Cloud & DevOps; career evidence: rag; open to work; response 0.73; strong activity signals; 6.2 yrs
+CAND_0000040,64,0.4383,Customer Support | Helping teams scale; career evidence: evaluation; response 0.46; strong activity signals; product-building experience
+CAND_0000080,65,0.4381,Graphic Designer | Helping teams scale; career evidence: llm; open to work; response 0.17; strong activity signals; 8.3 yrs
+CAND_0000081,66,0.4346,"Accountant | 10.1+ yrs experience; career evidence: search, llm; response 0.31; strong activity signals; 10.1 yrs"
+CAND_0000005,67,0.4324,Accountant | Helping teams scale; limited direct career evidence; open to work; response 0.37; strong activity signals; 11.0 yrs
+CAND_0000012,68,0.4316,Operations Manager | Driving business outcomes; limited direct career evidence; response 0.16; strong activity signals; product-building experience
+CAND_0000002,69,0.4314,"Operations Manager | 12.5+ yrs experience; career evidence: search, llm; open to work; response 0.29; strong activity signals"
+CAND_0000090,70,0.4305,QA Engineer | Full-stack development; career evidence: rag; response 0.49; strong activity signals; product-building experience
+CAND_0000029,71,0.4289,Business Analyst | Driving business outcomes; limited direct career evidence; response 0.12; strong activity signals; 7.2 yrs
+CAND_0000085,72,0.4267,"Mechanical Engineer | Driving business outcomes; career evidence: search, evaluation, llm; response 0.77; strong activity signals; product-building experience"
+CAND_0000024,73,0.4204,"HR Manager | 7.5+ yrs experience; career evidence: search, llm; response 0.78; strong activity signals; 7.5 yrs"
+CAND_0000042,74,0.4180,"HR Manager | 5.0+ yrs experience; career evidence: search, evaluation, llm; response 0.58; strong activity signals; 5.0 yrs"
+CAND_0000067,75,0.4180,"Frontend Engineer | Cloud & DevOps; career evidence: rag, python; response 0.45; strong activity signals"
+CAND_0000100,76,0.4169,"Graphic Designer | Helping teams scale; career evidence: search, evaluation, llm; open to work; response 0.06; strong activity signals; product-building experience"
+CAND_0000035,77,0.4161,Full Stack Developer | Backend systems & APIs; career evidence: rag; response 0.34; strong activity signals; 4.3 yrs
+CAND_0000050,78,0.4109,Business Analyst | Helping teams scale; career evidence: llm; response 0.42; strong activity signals
+CAND_0000092,79,0.4097,"Business Analyst | Driving business outcomes; career evidence: search, llm; response 0.05; strong activity signals; 4.8 yrs"
+CAND_0000057,80,0.4070,"Customer Support | 3.3+ yrs experience; career evidence: search, llm; response 0.43; strong activity signals"
+CAND_0000082,81,0.4050,"Data Analyst | 7.4+ yrs in data engineering; career evidence: rag, python, fine-tuning; open to work; response 0.82; strong activity signals; 7.4 yrs"
+CAND_0000021,82,0.4037,"Project Manager | AI enthusiast | Building with LLMs; career evidence: vector, rag, llm; response 0.49; strong activity signals"
+CAND_0000017,83,0.4034,Accountant | 12.3+ yrs experience; career evidence: evaluation; response 0.27; strong activity signals
+CAND_0000076,84,0.4020,Project Manager | Helping teams scale; limited direct career evidence; response 0.44; strong activity signals; 12.0 yrs
+CAND_0000032,85,0.3990,.NET Developer | Full-stack development; career evidence: rag; response 0.69; strong activity signals; 8.1 yrs
+CAND_0000073,86,0.3954,Project Manager | 12.1+ yrs experience; career evidence: evaluation; response 0.72; strong activity signals
+CAND_0000027,87,0.3876,DevOps Engineer | Cloud & DevOps; career evidence: rag; open to work; response 0.58; strong activity signals
+CAND_0000034,88,0.3826,"Business Analyst | Driving business outcomes; career evidence: search, llm; response 0.15; strong activity signals; product-building experience"
+CAND_0000086,89,0.3764,Mechanical Engineer | Helping teams scale; limited direct career evidence; response 0.41; strong activity signals; 4.9 yrs
+CAND_0000070,90,0.3720,Business Analyst | Driving business outcomes; career evidence: evaluation; response 0.06; strong activity signals; 4.2 yrs
+CAND_0000079,91,0.3680,"Customer Support | Driving business outcomes; career evidence: evaluation, llm; open to work; response 0.12; strong activity signals; product-building experience"
+CAND_0000068,92,0.3607,"Java Developer | Full-stack development; career evidence: rag, python; open to work; response 0.55; strong activity signals"
+CAND_0000098,93,0.3602,Business Analyst | Helping teams scale; limited direct career evidence; open to work; response 0.65; strong activity signals
+CAND_0000087,94,0.3524,Full Stack Developer | Cloud & DevOps; career evidence: rag; open to work; response 0.70; strong activity signals
+CAND_0000008,95,0.3323,Operations Manager | 3.6+ yrs experience; limited direct career evidence; response 0.42; strong activity signals
+CAND_0000028,96,0.3306,Operations Manager | Driving business outcomes; limited direct career evidence; response 0.14; strong activity signals
+CAND_0000003,97,0.3221,Customer Support | 1.1+ yrs experience; limited direct career evidence; response 0.46; strong activity signals
+CAND_0000059,98,0.3192,"Frontend Engineer | Full-stack development; career evidence: rag, python; response 0.16; strong activity signals"
+CAND_0000047,99,0.3128,Project Manager | Helping teams scale; career evidence: llm; response 0.39; strong activity signals
+CAND_0000056,100,0.3020,Frontend Engineer | Cloud & DevOps; career evidence: rag; response 0.59; strong activity signals
